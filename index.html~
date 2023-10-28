@@ -19,9 +19,9 @@
 
       <header>
         <div class="wrapper">
-          <h1>Ansh Patel</h1>
+          <h1>Andy Lautenschlager</h1>
           <p class="bio">
-            Hello! I'm Ansh. I'm majoring in Computer Science. I have a passion for Brazilian Jiu-Jitsu and a deep appreciation for classic cars, especially those that have been restored.
+            Here's where you could put a description of yourself and the site. Like, "I'm an English major and Pizza Ambassador. This site collects some of my digital media-related coursework."
           </p>
           <div class="buttonBox">
             <a class="myButton"href="#projects">Go</a>
